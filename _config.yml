@@ -1,0 +1,30 @@
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: Reign's Blog
+layout_spectrum: 0.5615960760042071
+typography_spectrum: 0.4482103355694562
+color:
+  brandStrength: 0.1357964996714145
+  lightness: 0.3802957844454795
+  saturation: 0.7526077828370035
+  rhythmicContrast: 0.37433311878703535
+  brandColors:
+    - '#73603D'
+    - '#BF8A49'
+    - '#F2CA80'
+    - '#5E5A59'
+    - '#0D0D0D'
+content: []
+title: Reign's Blog
+description: 'Thoughts that provoke me:'
+github: true
+author:
+  name: Christopher DeRenzo
+  email: reigntech@gmail.com
+opengraph:
+  appId: ''
